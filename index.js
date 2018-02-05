@@ -30,6 +30,6 @@ function makeInt(a, b) {
 return parseInt(a, 10);
 }
 
-function makeInt(a, b) {
+function preserveDecimal(a, b) {
 return floatInt(a);
 }
