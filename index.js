@@ -23,5 +23,5 @@ function dec(a, b) {
 }
 
 function makeInt(n) {
-  return Math.parseInt(n);
+  return parseInt(n);
 }
