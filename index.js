@@ -31,5 +31,5 @@ return parseInt(a, 10);
 }
 
 function preserveDecimal(a, b) {
-return floatInt(a);
+return parseFloat(a);
 }
