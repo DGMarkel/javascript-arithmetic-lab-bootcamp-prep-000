@@ -1,8 +1,4 @@
-
-
 function add(a, b) {
-  var a = Math.floor(Math.random() * 1000);
-  var b = Math.floor(Math.random() * 1000);
   return a + b;
 }
 
@@ -21,3 +17,6 @@ funciton divide(a, b) {
 function inc(n) {
   return n += 1;
 }
+
+a = Math.floor(Math.random() * 1000)
+b = Math.floor(Math.random() * 1000)
