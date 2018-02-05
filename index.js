@@ -26,4 +26,4 @@ function makeInt(a, b) {
   return parseInt(a);
 }
 
-parseInt(a, b);
+parseInt(a, 10);
