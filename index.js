@@ -23,5 +23,5 @@ function inc(n) {
 }
 
 function makeInt(n) {
-  return Math.makeInt(n);
+  return Math.parseInt(n);
 }
